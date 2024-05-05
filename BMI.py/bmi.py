@@ -1,7 +1,16 @@
+# Just a normal BMI calculator using basic python.
+
+
+
+# Enter your hight in cm and not in feet/inches.
 height = float(input("Enter your height in centimeters: "))
+
+# Enter your weight in Kg
 weight = float(input("Enter your weight in Kg: "))
 
 height = height / 100
+
+# Formula of BMI is weight /
 bmi = weight / (height * height)
 
 print(f"Your Body-Mass index is: {bmi:.2f}")
