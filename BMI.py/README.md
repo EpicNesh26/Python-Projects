@@ -1,0 +1,1 @@
+The BMI Calculator project is a Python-based application designed to calculate BMI values and provide corresponding interpretations based on predefined BMI categories. By entering your height and weight, the program will compute your BMI and categorize it as underweight, normal weight, overweight, or obese according to standard BMI ranges.
