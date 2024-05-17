@@ -1,0 +1,1 @@
+"Simple Calculator is a Python-based application designed for performing basic arithmetic operations swiftly and accurately. With an intuitive user interface, users can effortlessly add, subtract, multiply, and divide numbers, making it an indispensable tool for everyday calculations."
