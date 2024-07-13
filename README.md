@@ -13,6 +13,26 @@ Welcome to My Python Projects Repository. This repository serves as a comprehens
 
 ## Projects
 Here is a list of some of the projects included in this repository:
+- BMI.py - [BMI.py]()
+- BattleShip - [BattleShip]()
+- BlackJack Game - [BlackJack Game]()
+- Calculator - [Calculator]()
+- Clock - [Clock]()
+- CodingChallenge.py - [CodingChallenge.py]()
+- ComplexSquareRoot - [ComplexSquareRoot]()
+- Currency Converter - [Currency Converter]()
+- Hangman - [Hangman]()
+- IP Address - [IP Address]()
+- Joke - [Joke]()
+- Number Guesser - [Number Guesser]()
+- Pokemon Battle - [Pokemon Battle]()
+- Purchasing Items - [Purchasing Items]()
+- Python Website - [Python Website]()
+- Quiz - [Quiz]()
+- Rock Paper Scissor - [Rock Paper Scissor]()
+- Stopwatch - [Stopwatch]()
+- Sudoku - [Sudoku]()
+- Tkinter - [Tkinter]()
 
 ## Getting Started
 To get started with these projects, follow these steps:
