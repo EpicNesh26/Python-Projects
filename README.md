@@ -25,6 +25,7 @@ Here is a list of some of the projects included in this repository:
 - IP Address - [IP Address](https://github.com/EpicNesh26/Python-Projects/tree/main/IP%20Address)
 - Joke - [Joke](https://github.com/EpicNesh26/Python-Projects/tree/main/Joke)
 - Number Guesser - [Number Guesser](https://github.com/EpicNesh26/Python-Projects/tree/main/Number%20Guesser)
+- Password Generator - [Password Generator](https://github.com/EpicNesh26/Python-Projects/tree/main/Password%20Generator)
 - Pokemon Battle - [Pokemon Battle](https://github.com/EpicNesh26/Python-Projects/tree/main/Pokemon%20Battle)
 - Purchasing Items - [Purchasing Items](https://github.com/EpicNesh26/Python-Projects/tree/main/Purchasing%20Items)
 - Python Website - [Python Website](https://github.com/EpicNesh26/Python-Projects/tree/main/Python%20Website)
